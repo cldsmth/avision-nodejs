@@ -1,0 +1,2 @@
+-database nya di rename dari "avision" jadi "webmag"
+-rename juga folder dan hal-hal lain yang mengandung kata "avision" jadi "webmag"
